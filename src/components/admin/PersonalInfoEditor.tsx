@@ -9,6 +9,7 @@ interface PersonalInfo {
   title: string;
   photo: string;
   about: string;
+  icon: string;
   contacts: Contact[];
 }
 
@@ -413,3 +414,4 @@ export default function PersonalInfoEditor({ data, onChange }: PersonalInfoEdito
   );
 
 } 
+
