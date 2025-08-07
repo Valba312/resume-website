@@ -42,6 +42,7 @@ export default function PersonalInfoEditor({ data, onChange }: PersonalInfoEdito
       type: 'email',
       value: '',
       label: '',
+      icon: '',
     };
     
     const newData = { ...formData, contacts: [...formData.contacts, newContact] };
@@ -410,4 +411,5 @@ export default function PersonalInfoEditor({ data, onChange }: PersonalInfoEdito
       </div>
     </div>
   );
+
 } 
