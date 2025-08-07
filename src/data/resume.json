@@ -1,0 +1,127 @@
+{
+  "personal": {
+    "name": "Алексей Лебедев",
+    "title": "Junior/Middle Web Developer",
+    "photo": "",
+    "about": "Я разработчик с двухлетним опытом создания современных сайтов и приложений. Специализируюсь на работе с JavaScript, TypeScript, React, Next.js, а также backend‑разработке на Node.js. \nЗанимаюсь коммерческой разработкой, успешно реализую заказы для малого/среднего бизнеса и частных клиентов. Ценю открытость в общении и довожу каждый проект до идеала.",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "alekseylebedev2003@gmail.com",
+        "label": "alekseylebedev2003@gmail.com",
+        "icon": "/uploads/photo_1754082049014.png"
+      },
+      {
+        "type": "telegram",
+        "value": "@Prostfakt",
+        "label": "Telegram"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "React",
+      "level": 5,
+      "category": "frontend"
+    },
+    {
+      "id": "2",
+      "name": "TypeScript",
+      "level": 4,
+      "category": "frontend"
+    },
+    {
+      "id": "3",
+      "name": "Node.js",
+      "level": 4,
+      "category": "backend"
+    },
+    {
+      "id": "4",
+      "name": "PostgreSQL",
+      "level": 3,
+      "category": "database"
+    },
+    {
+      "id": "5",
+      "name": "Docker",
+      "level": 3,
+      "category": "devops"
+    },
+    {
+      "id": "6",
+      "name": "AWS",
+      "level": 2,
+      "category": "devops"
+    },
+    {
+      "id": "mdtbatjzjlw75p2vxop",
+      "name": "авыаыва",
+      "level": 3,
+      "category": "frontend",
+      "icon": "/uploads/photo_1754082283749.png"
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "id": "1",
+      "institution": "Московский Технический Университет",
+      "degree": "Бакалавр",
+      "field": "Информационные технологии",
+      "startDate": "2016-09",
+      "endDate": "2020-06",
+      "description": "Изучал программирование, алгоритмы и структуры данных, базы данных, веб-разработку."
+    }
+  ],
+  "projects": [
+    {
+      "id": "mdyoittqnazepgqgmgb",
+      "title": "SubsTracker",
+      "description": "SubsTracker — это персональный трекер подписок с аналитикой. Он показывает, сколько ты тратишь на подписки в день, месяц и год, помогает избежать лишних расходов и держать всё под контролем.",
+      "technologies": [],
+      "link": "https://a25e6cbc-ae7f-46a8-a3ab-941092078a38-00-1xbdvh6y0827i.worf.replit.dev/calculator",
+      "github": ""
+    }
+  ],
+  "certificates": [
+    {
+      "id": "1",
+      "name": "AWS Certified Developer",
+      "issuer": "Amazon Web Services",
+      "date": "2023-06",
+      "link": "https://aws.amazon.com/certification/"
+    },
+    {
+      "id": "2",
+      "name": "React Advanced Certification",
+      "issuer": "Meta",
+      "date": "2022-12",
+      "link": "https://react.dev/"
+    }
+  ],
+  "facts": [
+    {
+      "id": "1",
+      "title": "5+ лет опыта",
+      "description": "Более 5 лет профессионального опыта в веб-разработке",
+      "icon": "🎯",
+      "category": "achievement"
+    },
+    {
+      "id": "2",
+      "title": "20+ проектов",
+      "description": "Успешно завершил более 20 коммерческих проектов",
+      "icon": "🚀",
+      "category": "achievement"
+    },
+    {
+      "id": "3",
+      "title": "Open Source",
+      "description": "Активный участник open source сообщества с 10+ контрибьюциями",
+      "icon": "💻",
+      "category": "achievement"
+    }
+  ]
+}
